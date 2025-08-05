@@ -1,1 +1,1 @@
-# -grenci-lem-Program-
+Ogrenci İslem
